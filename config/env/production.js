@@ -268,7 +268,7 @@ module.exports = {
     onlyAllowOrigins: [
       //'https://example.com',
       //'https://staging.example.com',
-      'http://localhost:3000/'
+      'http://localhost:3000'
     ],
 
 
